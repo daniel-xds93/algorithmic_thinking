@@ -44,3 +44,4 @@ Valor do ICMS R$ {ICMS}
 
 Valor total R$ {valor_total}
 """)
+
