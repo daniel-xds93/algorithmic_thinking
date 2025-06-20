@@ -1,5 +1,5 @@
 
-from calculos import *
+from calculossss import *
 
 valor_produto = float(input("Digite o valor do produto: "))
 
